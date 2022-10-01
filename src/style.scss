@@ -1,4 +1,7 @@
-$bgcolor: plum;
+$bgcolor: green;
+$primary: black;
+$danger: grey;
+@import "bootstrap/scss/bootstrap";
 
 body {
   background-color: $bgcolor;
